@@ -4,9 +4,9 @@ image_config: &image_config
   # either as project-specific environment variables
   # or as resources in your organization's org-global Context
 
-  IMAGE_NAME: DEBIAN_STRETCH
+  IMAGE_NAME: juntoci
 
-  IMAGE_TAG: juntoseguros
+  IMAGE_TAG: 0.0.1-base
 
   # NOTE: if you're modifying this config.yml file manually
   # rather than using the included setup script,
